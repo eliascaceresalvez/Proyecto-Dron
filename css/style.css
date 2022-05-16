@@ -1014,7 +1014,7 @@ width: 24%;
     color: #020500
   }
  .text-bg h1 {
-    color: #43960f;
+    color: #007000;
 padding-top: 10px;
 font-size: 71px;
 line-height: 85px;
@@ -1164,7 +1164,7 @@ background-repeat: no-repeat;
      line-height: 40px;
      font-size: 45px;
      text-transform:uppercase;
-     background: #547d13;
+     background: #007b00;
      display: inline-block;
      padding: 20px 30px;
 
@@ -1237,7 +1237,7 @@ display: block;
     align-items: center;
     right: 0;
     top: 44%;
-    background: #428713;
+    background: #006600;
     padding: 19px 27px;
     border-radius: 88px;
     margin-right: -20px;
@@ -1253,7 +1253,7 @@ display: block;
     align-items: center;
     right: 0;
     top: 27%;
-    background: #428713;
+    background: #006600;
     padding: 19px 25px;
     border-radius: 88px;
     margin-right: -20px;
@@ -1359,12 +1359,12 @@ background-color: #052501;
 border-radius: 50px;
 }
 #testimonial_slider .carousel-indicators li.active {
-     background-color: #4bc714;
+     background-color: #005c00;
 }
 
 
 .testimonial_cont {
-    background: #428713cc;
+    background: #005200;
     min-height: 295px;
     padding: 60px 40px;
 }
@@ -1575,7 +1575,7 @@ transition: all 0.3s ease-in;
  .copyright {
      padding: 20px 0px;
      margin-top: 55px;
-     background-color: #428713;
+     background-color: #006600;
 }
  .copyright p {
      color: #fff;
